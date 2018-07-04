@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe5678db-dacc-4288-a5ce-901b793cbc2a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/arch_util.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archi.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/block.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/duplicator.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offset.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thread_study.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/CalArea/CalArea2.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/CalArea/CalArea2.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/ObserverSequence.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/ObserverSequence.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/ObserverSequence.rb.bak" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/ObserverSequence.rb.bak" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/classVariables.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/classVariables.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/classVariables.rb.bak" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/classVariables.rb.bak" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/SketchupRuby.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SketchupRuby.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tool_study.rb" beforeDir="false" afterPath="$PROJECT_DIR$/tool_study.rb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,54 +15,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="arch_util.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/arch_util.rb">
+      <file leaf-file-name="tool_study.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tool_study.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="128" selection-start-line="128" selection-end-line="128" />
-              <folding>
-                <element signature="e#92#226#0" />
-                <element signature="e#230#350#0" />
-                <element signature="e#354#1509#0" />
-                <element signature="e#808#1134#0" />
-                <element signature="e#1140#1484#0" />
-                <element signature="e#1167#1476#1" />
-                <element signature="e#1435#1466#0" />
-                <element signature="e#1513#1991#0" />
-                <element signature="e#1610#1914#0" />
-                <element signature="e#1938#1969#0" />
-                <element signature="e#1995#2256#0" />
-                <element signature="e#2116#2159#0" />
-                <element signature="e#2175#2203#0" />
-                <element signature="e#2260#2859#0" />
-                <element signature="e#2345#2413#0" />
-                <element signature="e#2630#2673#0" />
-                <element signature="e#2707#2816#0" />
-                <element signature="e#2863#3368#0" />
-                <element signature="e#2944#3012#0" />
-                <element signature="e#3157#3218#0" />
-                <element signature="e#3252#3325#0" />
-                <element signature="e#3372#3545#0" />
-                <element signature="e#3448#3524#0" />
-                <element signature="e#3549#3772#0" />
-                <element signature="e#3638#3766#0" />
-                <element signature="e#3776#3985#0" />
-                <element signature="e#3989#4361#0" />
-                <element signature="e#4365#4875#0" />
-                <element signature="e#4499#4632#0" />
-                <element signature="e#4768#4846#0" />
-              </folding>
+            <state relative-caret-position="29">
+              <caret line="71" column="7" lean-forward="true" selection-start-line="71" selection-start-column="7" selection-end-line="71" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="offset.rb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/offset.rb">
+      <file leaf-file-name="main.rb" pinned="false" current-in-tab="false">
+        <entry file="file://C:/SketchupExamples/examples/99_sphere_tool/ex_sphere_tool/main.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="43" column="5" lean-forward="true" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+            <state relative-caret-position="333">
+              <caret line="144" column="9" lean-forward="true" selection-start-line="144" selection-start-column="9" selection-end-line="144" selection-end-column="9" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ex_sphere_tool.rb" pinned="false" current-in-tab="false">
+        <entry file="file://C:/SketchupExamples/examples/99_sphere_tool/ex_sphere_tool.rb">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -92,10 +55,14 @@
       <find>p</find>
       <find>@client</find>
       <find>@@</find>
+      <find>picked_points</find>
+      <find>.valid</find>
+      <find>_ip</find>
     </findStrings>
     <replaceStrings>
       <replace>@@client</replace>
       <replace>@</replace>
+      <replace>_ip.position</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -119,11 +86,18 @@
         <option value="$PROJECT_DIR$/parapet.rb" />
         <option value="$PROJECT_DIR$/block.rb" />
         <option value="$PROJECT_DIR$/arch_util.rb" />
+        <option value="$PROJECT_DIR$/tool_study.rb" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
@@ -146,7 +120,16 @@
           <expand>
             <path>
               <item name="SketchupRuby" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SketchupRuby" type="47feb1d3:ProjectViewModuleNode" />
+            </path>
+            <path>
+              <item name="SketchupRuby" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SketchupRuby" type="47feb1d3:ProjectViewModuleNode" />
               <item name="SketchupRuby" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SketchupRuby" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
             <path>
               <item name="SketchupRuby" type="b2602c69:ProjectViewProjectNode" />
@@ -165,10 +148,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Roaming/SketchUp/SketchUp 2014/SketchUp/Plugins/su_excel" />
+    <property name="last_opened_file_path" value="C:/Program Files (x86)/SketchUp/SketchUp 2014/Tools" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Ruby" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.ruby.settings.RubyModuleStructureConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -205,27 +188,28 @@
       <workItem from="1529911755830" duration="4231000" />
       <workItem from="1529984025933" duration="10509000" />
       <workItem from="1530582966799" duration="6211000" />
-      <workItem from="1530590328573" duration="5104000" />
+      <workItem from="1530590328573" duration="15110000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73673000" />
+    <option name="totallyTimeSpent" value="83679000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.2586399" visible="true" weight="0.19755058" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info id="Structure" order="1" sideWeight="0.74136007" side_tool="true" visible="true" weight="0.19755058" />
       <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.25867862" visible="true" weight="0.1977612" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32924962" />
+      <window_info active="true" id="Structure" order="1" sideWeight="0.7413214" side_tool="true" visible="true" weight="0.1977612" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.501046" />
@@ -234,7 +218,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32924962" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -244,34 +227,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/thread_study.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/block.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2831">
-          <caret line="149" column="7" lean-forward="true" selection-start-line="149" selection-start-column="7" selection-end-line="149" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modular.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2679">
-          <caret line="141" column="5" selection-start-line="124" selection-start-column="2" selection-end-line="141" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arch_util.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1140">
-          <caret line="60" column="15" lean-forward="true" selection-start-line="60" selection-start-column="15" selection-end-line="60" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/GenArea.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="560">
@@ -622,8 +577,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/offset.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="43" column="5" lean-forward="true" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+        <state relative-caret-position="18">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Ruby/ToolStudy">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Ruby</ID>
+          <OriginalElement>ToolStudy</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-467.5" y="-165.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constants</Category>
+          </Categories>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/SketchupExamples/examples/99_sphere_tool/ex_sphere_tool.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/SketchupExamples/examples/99_sphere_tool/ex_sphere_tool/main.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="144" column="9" lean-forward="true" selection-start-line="144" selection-start-column="9" selection-end-line="144" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tool_study.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="71" column="7" lean-forward="true" selection-start-line="71" selection-start-column="7" selection-end-line="71" selection-end-column="7" />
         </state>
       </provider>
     </entry>
